@@ -1,0 +1,14 @@
+__pycache__/
+.idea/
+venv/
+debug/
+.vs/
+*.out
+*.exe
+CMakeLists.txt
+cmake-build-debug/
+.vscode/
+*.tar.gz
+*.zip
+*.rar
+
