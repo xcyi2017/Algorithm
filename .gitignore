@@ -11,4 +11,4 @@ cmake-build-debug/
 *.tar.gz
 *.zip
 *.rar
-
+.ipynb_checkpoints/
