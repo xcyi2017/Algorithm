@@ -1,4 +1,5 @@
 #include "SparseGraph.h"
+#include "DenseGraph.h"
 
 int main() {
     int n = 20;
