@@ -8,7 +8,6 @@ int divide(int a, int b);
 
 int main(int argc, char * argv[])
 {
-    
     int operator = 0;
     int a, b;
     do 
@@ -108,7 +107,7 @@ int divide(int a, int b)
     
     int count = 0;
 
-    while (t_a > 0) 
+    while (t_a > t_b) 
     {
         t_a = substract(t_a, t_b);
         count++;
